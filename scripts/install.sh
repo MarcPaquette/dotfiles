@@ -10,6 +10,7 @@ sudo apt install picom
 sudo apt install spotify
 sudo apt install alacritty
 sudo apt install neovim
+sudo apt install git
 
 #Pretty LS colors
 cargo install vivid
